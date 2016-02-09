@@ -111,7 +111,7 @@ footer{
 
 
 /** BREAKPOINTS**/
-@media screen and (max-width: 1024px) {
+@media(max-width:80em) {
 
   /**PROJECT TILES**/
   .container {
@@ -138,7 +138,7 @@ footer{
   .box {
     width: 50%;
     height: 290px;
-    border: 10px solid #ffffff;
+    border: 10px solid blue;
   }
 
   .box5{
