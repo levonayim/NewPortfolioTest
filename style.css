@@ -111,9 +111,8 @@ footer{
 
 
 /** BREAKPOINTS**/
+/**
 @media(max-width:100em) {
-
-  /**PROJECT TILES**/
   .container {
     display:flex;
     flex-wrap:wrap;
@@ -146,6 +145,7 @@ footer{
   }
 
 }
+**/
 
 /** BREAKPOINTS**/
 @media(max-width:80em){
