@@ -148,7 +148,7 @@ footer{
 }
 
 /** BREAKPOINTS**/
-@media screen and (max-width: 980px) {
+@media(max-width:35em){
   .menuLinks{
     margin-top: 7px;
     }
