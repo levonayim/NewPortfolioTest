@@ -111,7 +111,7 @@ footer{
 
 
 /** BREAKPOINTS**/
-@media(max-width:80em) {
+@media(max-width:100em) {
 
   /**PROJECT TILES**/
   .container {
@@ -148,7 +148,7 @@ footer{
 }
 
 /** BREAKPOINTS**/
-@media(max-width:35em){
+@media(max-width:80em){
   .menuLinks{
     margin-top: 7px;
     }
